@@ -6,8 +6,6 @@ Heya! I'm EL MAKHFI Mohamed, a student currently living in Morocco.
 I'm preparing for the <a href="https://mylearn.oracle.com/ou/learning-path/become-a-java-se-21-developer/138845">Oracle Certified Professional: Java SE 21 Developer</a>,  
 and learning programming through small projects on the side.  
 
-Currently, I'm doing my final-year internship (PFE) at D&A Technologies for 6 months (February to August).
-
 <br>
 
 <p>
