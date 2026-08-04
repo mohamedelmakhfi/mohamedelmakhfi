@@ -14,7 +14,7 @@
 
 Hi there! 👋 I'm **EL MAKHFI Mohamed**, a Software Engineer and Full-Stack Java Developer from Morocco.
 
-🎓 Computer Engineering student at ENSA Safi.
+🎓 Computer Engineering Graduate from ENSA Safi.
 
 🏆 Oracle Certified Professional: Java SE 21 Developer.
 
